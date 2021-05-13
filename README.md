@@ -5,7 +5,7 @@ This research has been made in collaboration with Anja Hajdukovic, Athénais Nav
 
 Methodology:
 
-Getting 6 different type of data:
+Getting 6 different types of data:
 - Ebro basin region
 - Total annual precipitation
 - Average annual reference evapotranspiration
